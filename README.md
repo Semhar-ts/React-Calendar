@@ -1,2 +1,2 @@
 # React-Calendar
-Calender projecct using react calendar libirary
+Calendar projecct using react calendar libirary
